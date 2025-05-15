@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React Logo to learn more
       </p>
 
-      <input type="text" />
+      <input type="password" />
     </>
   );
 }
